@@ -1,0 +1,76 @@
+
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Lucida Grande";
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color:white;
+  
+}
+
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  height: 340px;
+  background-image:url(https://media.voguebusiness.com/photos/60140c47d3d19b7432dd2ea9/2:3/w_2560%2Cc_limit/sneakers-sustainability-voguebus-janine-abrenilla-jan-21-story.jpg);
+  background-size:cover;
+  
+}
+  h1{
+  color:white;
+  font-size:45px;
+  letter-spacing: 5px;
+  text-align:center;
+  margin-bottom:10px;
+  opacity:0.7;
+}
+
+ p {
+  color:white;
+  text-align:center;
+  margin-bottom:3px;
+  opacity:0.7;
+  padding-bottom:12px;
+}
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.btn{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left:24px;
+  padding-right: 24px;
+  display: inline-block;
+  opacity: 0.8;
+}
+.signup {
+  color:white;
+  background-color:#239b76;
+  
+}
+.facebook {
+  background-color:#3b5998;
+  margin-right: 10px;
+  
+}
+.twitter {
+  background-color:#55acee;
+}
+.btn-wrapper {
+  text-align:center;
+}
